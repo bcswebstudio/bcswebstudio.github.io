@@ -1,8 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+title: About
+permalink: /about/
 author: bcswebstudio
 seo:
   type: Organization
@@ -20,6 +19,6 @@ seo:
       contactType: customer support
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; min-height: 300px;">
-  <img src="/assets/images/bcswebstudio-logo.jpg" alt="BCSWebstudio Logo" style="max-width: 300px; width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 24px rgba(0,0,0,0.10);" />
-</div>
+## About BCSWebstudio
+
+Welcome to BCSWebstudio - your trusted partner for web development and digital solutions.

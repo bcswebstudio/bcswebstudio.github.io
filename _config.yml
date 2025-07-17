@@ -18,19 +18,34 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: BCSWebstudio | Contract Part-Time Product Management
-email: your-email@example.com
+title: BCSWebstudio | Contract Web and Software Consultancy
+email: info@bcswebstudio.com
 description: >- # this means to ignore newlines until "baseurl:"
-  BCSWebstudio provides technological consulting and development services ranging from part-time contract Product Management to websites to building software for kiosks and part-time.
+  BCSWebstudio provides technological consulting and development services ranging from part-time contract Product Management to websites to building software for kiosks.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bcswebstudio.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: bronicat
 github_username:  bcswebstudio
+linkedin_username: bronius # prefer company/bcswebstudio but not sure how to do that yet
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+# Google Analytics
+google_analytics: G-9LR49540P9
+
+# Author information for Jekyll SEO
+author: Bronius Motekaitis
+
+# Social profiles for Jekyll SEO
+social:
+  name: Bronius Motekaitis
+  links:
+    - https://www.linkedin.com/in/bronius
+    - https://bcswebstudio.com
+    - https://recovery-kit.com
+    - https://mypocketpm.com
 
 # Exclude from processing.
 # The following items will not be processed, by default.
