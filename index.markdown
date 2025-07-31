@@ -21,5 +21,5 @@ seo:
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; min-height: 300px;">
-  <img src="/assets/images/bcswebstudio-logo.jpg" alt="BCSWebstudio Logo" style="max-width: 300px; width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 24px rgba(0,0,0,0.10);" />
+  <img src="/assets/images/bcswebstudio-logo.png" alt="BCSWebstudio Logo" style="width: 100%; height: auto; border-radius: 12px;" />
 </div>
